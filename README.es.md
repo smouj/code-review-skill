@@ -1,17 +1,12 @@
 # Code Review
 
-[![EN](https://img.shields.io/badge/EN-English-blue)](README.md)
-
 Skill de Code Review para OpenClaw.
 
-## Qué Resuelve
-Provides comprehensive code review.
+## Qué hace
+Provides comprehensive code review with security, performance and best practices analysis.
 
 ## Uso
 /code-review
-
-## Ejemplo
-Analizar código para problemas de coding.
 
 ## Licencia
 MIT
